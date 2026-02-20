@@ -8,8 +8,7 @@ Para isso utilizei os Medias Queries, que são regras de CSS que permitem aplica
 
 [Acesse o projeto](https://vmalagrino.github.io/alura-books)
 
-![alt text](image.png)
-
+![mockup dos aparelhos](image.png)
 
 ## 💻 Tecnologias utilizadas
 
