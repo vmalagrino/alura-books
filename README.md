@@ -6,7 +6,7 @@ Adotada a abordagem Mobile First começando o projeto com telas menores e expand
 
 Para isso utilizei os Medias Queries, que são regras de CSS que permitem aplicar estilos diferentes para mais de um tamanho de tela.
 
-![Acesse o projeto](https://vmalagrino.github.io/alura-books)
+[Acesse o projeto](https://vmalagrino.github.io/alura-books)
 
 ## Tecnologias utilizadas
 
