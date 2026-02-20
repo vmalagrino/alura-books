@@ -28,3 +28,21 @@
     font-size: 14px;
     font-weight: 700;
 }
+
+@media screen and (min-width: 1024px) {
+    .topicos__titulo {
+        font-size: 24px;
+    }
+
+    .topicos__link {
+        font-size: 24px;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .topicos {
+        /* 30 de cada lado, esquerda e doreira, ou seja na tela temos uma borda de 30%, conteudo de 40%, borda de 30% = 100% da largura da página */
+        padding: 3em 30vw;
+
+    }
+}
