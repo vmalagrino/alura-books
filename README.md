@@ -4,11 +4,11 @@ Projeto desenvolvido focando em responsividade de telas.
 
 Adotada a abordagem Mobile First começando o projeto com telas menores e expandindo, dando assim várias possibilidades de acesso ao site para o usuário, seja por celular, tablet ou desktop.
 
-Para isso utilizei os Medias Queries, que são regras de CSS que permitem aplicar estilos diferentes para mais de um tamanho de tela
+Para isso utilizei os Medias Queries, que são regras de CSS que permitem aplicar estilos diferentes para mais de um tamanho de tela.
 
-![Acesso ao projeto]()
+![Acesse o projeto](https://vmalagrino.github.io/alura-books/)
 
-## Ferramentas utilizadas
+## Tecnologias utilizadas
 
 - HTML
 - CSS
