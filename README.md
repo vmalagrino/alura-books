@@ -1,4 +1,4 @@
-# AluraBooks
+# 📗 AluraBooks
 
 Projeto desenvolvido focando em responsividade de telas.
 
@@ -8,13 +8,16 @@ Para isso utilizei os Medias Queries, que são regras de CSS que permitem aplica
 
 [Acesse o projeto](https://vmalagrino.github.io/alura-books)
 
-## Tecnologias utilizadas
+![alt text](image.png)
+
+
+## 💻 Tecnologias utilizadas
 
 - HTML
 - CSS
 - Media Query
 - Swiper (biblioteca JavaScript utilizada para criar sliders em projetos web)
 
-## Contato
+## 🎈 Contato
 
 [LinkedIn](https://www.linkedin.com/in/victor-malagrino-26680a1a2/)
